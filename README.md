@@ -1,6 +1,6 @@
 # Multi-Step Form (SMIT Assignment)
 
-This project is a **Multi-Step Form** built using **HTML, CSS, and a little JavaScript (optional)**.  
+This project is a **Multi-Step Form** built using **HTML, CSS.**.  
 It was created as part of my **Saylani Mass IT Training (SMIT)** course assignment.  
 The form collects user data across multiple pages and ends with a confirmation ("Thank You") page.
 
